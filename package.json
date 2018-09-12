@@ -16,7 +16,7 @@
     "standard-version": "^4.2.0"
   },
   "peerDependencies": {
-    "coffeescript": ">= 1.8.x"
+    "coffeescript": ">= 2.3.x"
   },
   "homepage": "http://github.com/webpack-contrib/coffee-loader",
   "repository": {
